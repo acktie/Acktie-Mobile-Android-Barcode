@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Simple to use Barcode Appcelerator module
+author: Tony Nuzzi
+license: See LICENSE file
+copyright: Copyright 2012 Acktie, LLC, All Rights Reserved
+
+
+# these should not be edited
+name: acktiemobileandroidbarcode
+moduleid: com.acktie.mobile.android.barcode
+guid: acd6b9c5-42b4-432b-b126-f46a36d8fd52
+platform: android
+minsdk: 1.8.2
