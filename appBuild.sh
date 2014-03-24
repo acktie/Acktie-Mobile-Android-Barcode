@@ -1,1 +1,1 @@
-rm -rf build;ant dist;rm -rf /Library/Application\ Support/Titanium/modules/android/com.acktie.mobile.android.barcode/; unzip dist/com.acktie.mobile.android.barcode-android-1.2.zip -d /Library/Application\ Support/Titanium/;
+rm -rf build;ant dist;rm -rf /Users/Nuzzi/Library/Application\ Support/Titanium/modules/android/com.acktie.mobile.android.barcode/; unzip dist/com.acktie.mobile.android.barcode-android-1.4.zip -d /Users/Nuzzi/Library/Application\ Support/Titanium/;
